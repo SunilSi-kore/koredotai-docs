@@ -1,12 +1,12 @@
 ---
 title: API Scopes
 
-permalink: searchassist/topic-guide/en/latest/API Scopes
+permalink: searchassist/topic-guide/en/latest/Sources
 
 ---
 
 #### Topic Guide
-###### API Scopes
+###### Sources
 
   Check out our explanatory FAQs and documentation links on API Scopes.
 
